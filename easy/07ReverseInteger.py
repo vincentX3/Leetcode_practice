@@ -9,10 +9,10 @@ class Solution:
             x=-x
 
         result=x%10
-        x=int(x/10)
+        x=x//10
         while x!=0:
             result=result*10+x%10
-            x=int(x/10)
+            x=x//10
         if flag==-1:
             result=flag*result
         if result>2147483647 or result<-2147483648:
