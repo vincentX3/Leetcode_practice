@@ -23,4 +23,4 @@ nums2 = [2,5,6],       n = 3
 2. Merge sorted like
 像归并排序一般，本题只需利用容器数组尾端的空前空间，对有效数据段从大到小进行归并排序即可。
 结果相当喜人，开心一下☺。
-![ranking result](88MergeSortedArray.png)
+![ranking result](088MergeSortedArray.png)
