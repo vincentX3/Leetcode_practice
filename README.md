@@ -46,7 +46,10 @@ follow [**@lucifer**](https://github.com/azl397985856) 的题解顺序。
 [219ContainsDuplicateII](./easy/219ContainsDuplicateII.md)|[219ContainsDuplicateII.py](./easy/219ContainsDuplicateII.py)
 [226InvertBinaryTree](./easy/226InvertBinaryTree.md)|[226InvertBinaryTree.py](./easy/226InvertBinaryTree.py)
 [232ImplementQueueusingStacks](./easy/232ImplementQueueusingStacks.md)|[232ImplementQueueusingStacks.py](./easy/232ImplementQueueusingStacks.py)
+[263UglyNumber](./easy/263UglyNumber.md)|[263UglyNumber.py](./easy/263UglyNumber.py)
 [283MoveZeroes](./easy/283MoveZeroes.md)|[283MoveZeroes.py](./easy/283MoveZeroes.py)
+[342PowerofFour](./easy/342PowerofFour.md)|[342PowerofFour.py](./easy/342PowerofFour.py)
+
 
 
 
