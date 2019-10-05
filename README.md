@@ -49,10 +49,7 @@ follow [**@lucifer**](https://github.com/azl397985856) 的题解顺序。
 [263UglyNumber](./easy/263UglyNumber.md)|[263UglyNumber.py](./easy/263UglyNumber.py)
 [283MoveZeroes](./easy/283MoveZeroes.md)|[283MoveZeroes.py](./easy/283MoveZeroes.py)
 [342PowerofFour](./easy/342PowerofFour.md)|[342PowerofFour.py](./easy/342PowerofFour.py)
-
-
-
-
+[349IntersectionofTwoArrays](./easy/349IntersectionofTwoArrays.md)|[349IntersectionofTwoArrays.py](./easy/349IntersectionofTwoArrays.py)
 
 ### Medium
 思路 | 代码
