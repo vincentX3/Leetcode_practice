@@ -21,7 +21,7 @@ def update(directory, problems):
     aim = '### ' + directory.capitalize()  # as the level written in README is in capitalized form
     flag = False
     for index, line in enumerate(content):
-        if '### ' + directory.capitalize() in line:
+        if aim in line:
             flag = True
         if flag is True and line == '\n':
             # index += 3  # markdown列表的两行跳过
@@ -31,7 +31,7 @@ def update(directory, problems):
                 print('successfully insert')
             break
 
-    with open('README.md', 'w+', encoding='UTF-8') as readme:
+    with open('README.md', 'w', encoding='UTF-8') as readme:
         readme.writelines(content)
 
 def get_problem_names(directory):
