@@ -49,5 +49,6 @@ def get_problem_names(directory):
 
 if __name__ == '__main__':
     directory = 'easy'
-    problems=get_problem_names(directory)
+    # problems=get_problem_names(directory)
+    problems=['575DistributeCandies']
     update(directory, problems)

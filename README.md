@@ -48,6 +48,7 @@ follow [**@lucifer**](https://github.com/azl397985856) 的题解顺序。
 [349IntersectionofTwoArrays](./easy/349IntersectionofTwoArrays.md)|[349IntersectionofTwoArrays.py](./easy/349IntersectionofTwoArrays.py)
 [371SumofTwoIntegers](./easy/371SumofTwoIntegers.md)|[371SumofTwoIntegers.py](./easy/371SumofTwoIntegers.py)
 [437PathSumIII](./easy/437PathSumIII.md)|[437PathSumIII.py](./easy/437PathSumIII.py)
+[575DistributeCandies](./easy/575DistributeCandies.md)|[575DistributeCandies.py](./easy/575DistributeCandies.py)
 
 
 
