@@ -58,6 +58,8 @@ follow [**@lucifer**](https://github.com/azl397985856) 的题解顺序。
 --- | ---
 [002AddTwoNumbers](./medium/002AddTwoNumbers.md)|[002AddTwoNumbers.py](./medium/002AddTwoNumbers.py)
 [477TotalHammingDistance](./medium/477TotalHammingDistance.md)|[477TotalHammingDistance.py](./medium/477TotalHammingDistance.py)
+[003LongestSubstringWithoutRepeatingCharacters](./medium/003LongestSubstringWithoutRepeatingCharacters.md)|[003LongestSubstringWithoutRepeatingCharacters.py](./medium/003LongestSubstringWithoutRepeatingCharacters.py)
+[005LongestPalindromicSubstring](./medium/005LongestPalindromicSubstring.md)|[005LongestPalindromicSubstring.py](./medium/005LongestPalindromicSubstring.py)
 
 ### Hard
 思路 | 代码
