@@ -50,5 +50,5 @@ def get_problem_names(directory):
 if __name__ == '__main__':
     directory = 'medium'
     # problems=get_problem_names(directory)
-    problems=['015_3Sum']
+    problems=['019RemoveNthNodeFromEndofList']
     update(directory, problems)
