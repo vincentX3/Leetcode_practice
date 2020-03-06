@@ -63,6 +63,7 @@ follow [**@lucifer**](https://github.com/azl397985856) 的题解顺序。
 [011ContainerWithMostWater](./medium/011ContainerWithMostWater.md)|[011ContainerWithMostWater.py](./medium/011ContainerWithMostWater.py)
 [015_3Sum](./medium/015_3Sum.md)|[015_3Sum.py](./medium/015_3Sum.py)
 [019RemoveNthNodeFromEndofList](./medium/019RemoveNthNodeFromEndofList.md)|[019RemoveNthNodeFromEndofList.py](./medium/019RemoveNthNodeFromEndofList.py)
+[024SwapNodesinPairs](./medium/024SwapNodesinPairs.md)|[024SwapNodesinPairs.py](./medium/024SwapNodesinPairs.py)
 
 ### Hard
 思路 | 代码
