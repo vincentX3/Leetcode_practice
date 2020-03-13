@@ -1,6 +1,6 @@
 # Contents
 
-> 《剑指offer》刷题整理，按数据结构/算法类型分类
+> 《剑指offer》刷题小记。
 
 
 - [04_FindInPartiallySortedMatrix](.04_FindInPartiallySortedMatrix.md)
@@ -17,6 +17,18 @@
 - [16_Power](./16_Power.md)
 - [18_02_DeleteDuplicatedNode](./18_02_DeleteDuplicatedNode.md)
 - [19_RegularExpressionsMatching](./19_RegularExpressionsMatching.md)
+- [22_KthNodeFromEnd](./22_KthNodeFromEnd.md)
+- [23_EntryNodeInListLoop](./23_EntryNodeInListLoop.md)
+- [24_ReverseList](./24_ReverseList.md)
+- [25_MergeSortedLists](./25_MergeSortedLists.md)
+- [26_SubstructureInTree](./26_SubstructureInTree.md)
+- [27_MirrorOfBinaryTree](./27_MirrorOfBinaryTree.md)
+- [28_SymmetricalBinaryTree](./28_SymmetricalBinaryTree.md)
+- [30_MinInStack](./30_MinInStack.md)
+- [31_StackPushPopOrder](./31_StackPushPopOrder.md)
+- [33_SquenceOfBST](./33_SquenceOfBST.md)
+- [34_PathInTree](./34_PathInTree.md)
+- [35_CopyComplexList](./35_CopyComplexList.md)
 
 ## Notes
 
@@ -26,3 +38,6 @@
 > - 功能测试
 > - 边界测试
 > - 异常输入 +  处理 (返回值报错/全局变量/抛异常)
+
+### ch4 解决面试题的思路
+1. 画图辅助：抽象->具象

@@ -4,9 +4,12 @@
 > Be a better man.
 
 ## Plan：      
-follow [**@lucifer**](https://github.com/azl397985856) 的题解顺序。
-- 每日1题**Easy**
-- 升级到**Medium**后两日一题。、
+
+2020.03.13 update:
+先前学业忙碌弃耕了。现为找实习，当且加倍努力。
+目标：以周为单位，每周
+- 5 道easy
+- 5 道medium
 
 ## Solutions
 > 代码与思路小结分开存放。
