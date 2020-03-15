@@ -41,7 +41,7 @@ $$
     def expand_check(self,s,left,right):
         while s[left]==s[right]:
             left-=1
-            right+=1
+            right+=1   
             if left<0 or right>=len(s):
                 break
         return s[left+1:right]

@@ -6,10 +6,11 @@
 ## Plan：      
 
 2020.03.13 update:
-先前学业忙碌弃耕了。现为找实习，当且加倍努力。
+先前学业忙碌弃耕了。现为找实习，当且加倍努力。干掉**Top 100 Interview**的easy和medium。
 目标：以周为单位，每周
 - 5 道easy
 - 5 道medium
+- 打contest weekly
 
 ## Solutions
 > 代码与思路小结分开存放。
@@ -25,6 +26,7 @@
 [021MergeTwoSortedLists](./easy/021MergeTwoSortedLists.md)|[021MergeTwoSortedLists.py](./easy/021MergeTwoSortedLists.py)
 [026RemoveDuplicatesfromSortedArray](./easy/026RemoveDuplicatesfromSortedArray.md)|[026RemoveDuplicatesfromSortedArray.py](./easy/026RemoveDuplicatesfromSortedArray.py)
 [027RemoveElement](./easy/027RemoveElement.md)|[027RemoveElement.py](./easy/027RemoveElement.py)
+[028ImplementstrStr()](./easy/028ImplementstrStr().md)|[028ImplementstrStr().py](./easy/028ImplementstrStr().py)
 [035SearchInsertPosition](./easy/035SearchInsertPosition.md)|[035SearchInsertPosition.py](./easy/035SearchInsertPosition.py)
 [053MaximumSubarray](./easy/053MaximumSubarray.md)|[053MaximumSubarray.py](./easy/053MaximumSubarray.py)
 [088MergeSortedArray](./easy/088MergeSortedArray.md)|[088MergeSortedArray.py](./easy/088MergeSortedArray.py)
@@ -55,18 +57,21 @@
 
 
 
-
 ### Medium
 思路 | 代码
 --- | ---
 [002AddTwoNumbers](./medium/002AddTwoNumbers.md)|[002AddTwoNumbers.py](./medium/002AddTwoNumbers.py)
-[477TotalHammingDistance](./medium/477TotalHammingDistance.md)|[477TotalHammingDistance.py](./medium/477TotalHammingDistance.py)
 [003LongestSubstringWithoutRepeatingCharacters](./medium/003LongestSubstringWithoutRepeatingCharacters.md)|[003LongestSubstringWithoutRepeatingCharacters.py](./medium/003LongestSubstringWithoutRepeatingCharacters.py)
 [005LongestPalindromicSubstring](./medium/005LongestPalindromicSubstring.md)|[005LongestPalindromicSubstring.py](./medium/005LongestPalindromicSubstring.py)
+[008StringtoInteger(atoi)](./medium/008StringtoInteger(atoi).md)|[008StringtoInteger(atoi).py](./medium/008StringtoInteger(atoi).py)
 [011ContainerWithMostWater](./medium/011ContainerWithMostWater.md)|[011ContainerWithMostWater.py](./medium/011ContainerWithMostWater.py)
 [015_3Sum](./medium/015_3Sum.md)|[015_3Sum.py](./medium/015_3Sum.py)
+[017LetterCombinationsofaPhoneNumber](./medium/017LetterCombinationsofaPhoneNumber.md)|[017LetterCombinationsofaPhoneNumber.py](./medium/017LetterCombinationsofaPhoneNumber.py)
 [019RemoveNthNodeFromEndofList](./medium/019RemoveNthNodeFromEndofList.md)|[019RemoveNthNodeFromEndofList.py](./medium/019RemoveNthNodeFromEndofList.py)
+[022GenerateParentheses](./medium/022GenerateParentheses.md)|[022GenerateParentheses.py](./medium/022GenerateParentheses.py)
 [024SwapNodesinPairs](./medium/024SwapNodesinPairs.md)|[024SwapNodesinPairs.py](./medium/024SwapNodesinPairs.py)
+[477TotalHammingDistance](./medium/477TotalHammingDistance.md)|[477TotalHammingDistance.py](./medium/477TotalHammingDistance.py)
+
 
 ### Hard
 思路 | 代码

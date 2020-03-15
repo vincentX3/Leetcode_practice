@@ -48,7 +48,7 @@ def get_problem_names(directory):
     return names
 
 if __name__ == '__main__':
-    directory = 'medium'
-    # problems=get_problem_names(directory)
-    problems=['024SwapNodesinPairs']
+    directory = 'easy'
+    problems=get_problem_names(directory)
+    # problems=['024SwapNodesinPairs']
     update(directory, problems)

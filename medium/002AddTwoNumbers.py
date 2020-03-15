@@ -92,12 +92,12 @@ class Solution:
 
 
 if __name__ == '__main__':
-    l1 = ListNode(1)
-    # l1.next = ListNode(4)
-    # l1.next.next = ListNode(3)
+    l1 = ListNode(7)
+    l1.next = ListNode(2)
+    l1.next.next = ListNode(3)
     # l1.next.next.next=ListNode(9)
-    l2 = ListNode(9)
-    l2.next = ListNode(9)
-    # l2.next.next = ListNode(6)
+    l2 = ListNode(5)
+    l2.next = ListNode(1)
+    l2.next.next = ListNode(8)
 
     Solution().addTwoNumbers2(l1, l2)
