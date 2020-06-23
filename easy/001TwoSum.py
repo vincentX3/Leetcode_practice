@@ -4,9 +4,9 @@
 #
 # Example:
 #
-# Given nums = [2, 7, 11, 15], target = 9,
+# Given array = [2, 7, 11, 15], target = 9,
 #
-# Because nums[0] + nums[1] = 2 + 7 = 9,
+# Because array[0] + array[1] = 2 + 7 = 9,
 # return [0, 1].
 
 from typing import List
@@ -17,7 +17,7 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         solution=[]
         for i in range(len(nums)):
-            # if nums[i]>target:
+            # if array[i]>target:
             #     continue
             # wrong↑ 有负数无法处理
             for j in range(i+1,len(nums)):

@@ -2,7 +2,7 @@ from  typing import List
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
-        Do not return anything, modify nums in-place instead.
+        Do not return anything, modify array in-place instead.
         """
         # v1 two pass use buckets
         buckets=[0,0,0]

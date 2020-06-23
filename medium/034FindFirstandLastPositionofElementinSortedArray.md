@@ -39,7 +39,7 @@ if nums[mid] == target:
 if nums[mid] < target:
        left = mid + 1
     else:
-        # whatever nums[mid] equal or larger than the target,
+        # whatever array[mid] equal or larger than the target,
         # the starting index would be mid or smaller than mid
         right = mid
 ```

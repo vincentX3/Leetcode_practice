@@ -29,7 +29,7 @@ class Solution:
             elif target>nums[index]:
                 left=index
                 index=(index+right)//2
-            else: #target<nums[index-1]
+            else: #target<array[index-1]
                 right=index
                 index=(left+index-1)//2
         return index
