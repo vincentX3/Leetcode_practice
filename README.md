@@ -3,16 +3,16 @@
 ---
 > Be a better man.
 
-## Plan：      
 
-2020.03.13 update:
-先前学业忙碌弃耕了。现为找实习，当且加倍努力。干掉**Top 100 Interview**的easy和medium。
-目标：以周为单位，每周
-- 5 道easy
-- 5 道medium
-- 打contest weekly
 
-## Solutions
+## 1. Challenges
+### 2020-August
+[01 Detect Capital](./2020_August/0801_DetectCapital.md)
+
+
+
+
+## 2. Problem Solutions
 > 代码与思路小结分开存放。
 ### Easy
 思路 | 代码
