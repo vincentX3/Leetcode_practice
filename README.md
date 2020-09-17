@@ -9,6 +9,12 @@
 ### 2020-August
 [01 Detect Capital](./2020_August/0801_DetectCapital.md)
 
+[02_Design HashSet](./2020_August/0802_DesignHashSet.md)
+
+[03_Valid Palindrome](./2020_August/0803_ValidPalindrome.md)
+
+[04_Power of Four](./2020_August/0804_PowerofFour.md)
+
 
 
 
